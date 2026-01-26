@@ -1,5 +1,6 @@
 # 🌱 Arduino Automatic Plant Watering System / Otomatik Bitki Sulama Sistemi
 Fransızca anlatımlı proje videosu : https://youtube.com/shorts/vhjwoos76hg
+
 Project video narrated in French : https://youtube.com/shorts/vhjwoos76hg
 
 **TR:** Bu proje, Arduino kullanılarak geliştirilmiş, toprak nemini sürekli izleyen ve kuruluk seviyesi belirlenen eşiğin altına düştüğünde otomatik sulama yapan bir gömülü sistem projesidir.
