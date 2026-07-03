@@ -40,4 +40,3 @@ Project video narrated in French : https://youtube.com/shorts/vhjwoos76hg
 3.  **TR:** Eğer değer 950'den büyükse (Toprak Nemli), Pompa durur. / **EN:** If value is > 950 (Soil Wet), Pump stops.
 
 ---
-**Author/Yazar:** Melih Tuğrul Erdoğdu
